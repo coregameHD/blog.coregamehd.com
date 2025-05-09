@@ -36,13 +36,3 @@ slug: "why-study-mathematics"
 แม้ว่าความรู้เหล่านี้สามารถเรียนเพิ่มเติมทีหลังได้ แต่ไม่ว่ายังไง ผมก็ไม่มีทางเก่งเท่ากับคนที่เชี่ยวชาญคณิตศาสตร์ได้อยู่ดี ป่านนี้ครูสอนคณิตฯคงหัวเราะเยาะด้วยความสะใจพร้อมพูดว่าสมน้ำหน้า ไม่ตั้งใจเรียนเอง ช่วยไม่ได้
 
 ดังนั้น วิชาความรู้ต่างๆ เรียนไปเถอะครับ วันนี้อาจจะยังไม่ได้ใช้ แต่สักวันหนึ่งในอนาคต ถ้าได้ใช้จะต้องนึกขอบคุณอย่างแน่นอน
-[
-
-Kagami Visual Novel
-
-″เรียนคณิตศาสตร์ไปทำไม เรียนไปก็ไม่ได้ใช้ (?)” &#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D; วันนี้ไม่ได้มาสอนภาษาญี่ปุ่น แค่มาบ่นเฉยๆ ครับ เมื่อวานผมเขียนบทความเรื่อง 偏差値 หรือคะแนนมาตรฐาน…
-
-![](https://static.xx.fbcdn.net/rsrc.php/yv/r/B8BxsscfVBr.ico)FacebookKagami Visual Novel
-
-![](https://scontent-sin6-1.xx.fbcdn.net/v/t1.6435-9/61122173_2399165153456374_5873276552174632960_n.jpg?stp&#x3D;dst-jpg_p720x720&amp;_nc_cat&#x3D;111&amp;ccb&#x3D;1-7&amp;_nc_sid&#x3D;0be424&amp;_nc_ohc&#x3D;BK14UYB1phsAX-rQ_1o&amp;_nc_ht&#x3D;scontent-sin6-1.xx&amp;oh&#x3D;00_AfA8d2F4egZH2UAMG7R3IwafYQTPY8ASYjZoofCLIWKUOA&amp;oe&#x3D;6441E5CB)
-](https://www.facebook.com/kagamivisualnovel/posts/2399174553455434)เขียนครั้งแรกที่เพจ Kagami Visual Novel

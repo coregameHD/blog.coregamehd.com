@@ -50,14 +50,3 @@ slug: "yuurei-moji"
 พจนานุกรม Webster’s New International Dictionary (Second Edition) ตีพิมพ์ในปีค.ศ. 1934 มีคำว่า Dord บรรจุไว้อยู่
 
 ต่อมาในภายหลังค้นพบว่า "Dord" เป็นคำศัพท์ที่ไม่มีอยู่จริง โดยเกิดจากการแกะลายมือผิดพลาด คำศัพท์ที่ถูกต้องคือตัวย่อ "D or d" (ย่อมาจาก Density)
-
-[
-
-Kagami Nihongo - ▍幽霊文字 อักษรคันจิปลอมที่ไม่มีอยู่จริง...
-
-▍幽霊文字 อักษรคันจิปลอมที่ไม่มีอยู่จริง 幽霊文字 (ゆうれいもじ; Ghost characters) หมายถึง อักษรคันจิที่ถูกบรรจุไว้ในมาตรฐานอักขระคอมพิวเตอร์จากความผิดพลาด…
-
-![](https://static.xx.fbcdn.net/rsrc.php/yT/r/aGT3gskzWBf.ico)▍幽霊文字 อักษรคันจิปลอมที่ไม่มีอยู่จริง...
-
-![](https://scontent-sin6-2.xx.fbcdn.net/v/t39.30808-6/397218235_780526207417464_4149273536156948677_n.jpg?stp=cp6_dst-jpg&amp;_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=8baee0&amp;_nc_ohc=omOp_JiUqa4AX8sLI6I&amp;_nc_ht=scontent-sin6-2.xx&amp;oh=00_AfCmXnRqV3CeOWa5YusOmYniMAVl2wXDYkkuvfrnZ7Kxdg&amp;oe=6596089C)
-](https://www.facebook.com/kagaminihongo/posts/780685020734916?__tn__=%2CO*F)

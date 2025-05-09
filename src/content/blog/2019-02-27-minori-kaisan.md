@@ -38,13 +38,3 @@ minori เป็นค่ายเกมที่เปิดมานานม�
 
 @coregameHD
 28/02/2019
-[
-
-Kagami Visual Novel
-
-วันนี้ minori ประกาศยุบค่ายอย่างเป็นทางการ minori เป็นค่ายเกมที่เปิดมานานมาก (ผลงานในตำนานอย่างเช่น ef หรือ eden* รวมถึง supipara ที่ได้รับการแปลเป็นภาษาอังกฤษลง Steam) แต่นับจากวันนี้เป็นต้นไป…
-
-![](https://static.xx.fbcdn.net/rsrc.php/yv/r/B8BxsscfVBr.ico)FacebookKagami Visual Novel
-
-![](https://scontent-sin6-4.xx.fbcdn.net/v/t1.6435-9/53262063_2266044050101819_8737052426072227840_n.jpg?stp&#x3D;dst-jpg_p960x960&amp;_nc_cat&#x3D;100&amp;ccb&#x3D;1-7&amp;_nc_sid&#x3D;0be424&amp;_nc_ohc&#x3D;kXoFtiQAnYsAX-7AsiK&amp;_nc_ht&#x3D;scontent-sin6-4.xx&amp;oh&#x3D;00_AfCt8aWNX10cWXoOuIqGMPrlgH9HsQVs_ETgnQc3kSZFPg&amp;oe&#x3D;6441B37B)
-](https://www.facebook.com/kagamivisualnovel/posts/2266044753435082)เขียนครั้งแรกที่เพจ Kagami Visual Novel
