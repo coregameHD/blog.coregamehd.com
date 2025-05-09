@@ -34,13 +34,3 @@ slug: "review-the-picture-of-cafe-au-lait"
 
 
 กล่าวโดยสรุป The Picture of Café au lait เป็นผลงานเปิดตัวที่ดีมากๆ เหนือความคาดหมาย ด้วยเนื้อเรื่องที่เป็นเส้นตรง ลื่นไหล สั้นกระชับ และจบบริบูรณ์อย่างสวยงาม ผู้เล่นที่ไม่เคยเล่นเกมวิชวลโนเวลมาก่อนก็สนุกเพลิดเพลินได้ และจะสนุกยิ่งขึ้นไปอีกถ้าเคยเผชิญปัญหาที่ใกล้เคียงกับตัวละครในเรื่อง
-[
-
-The Picture of Café au lait on Steam
-
-The picture of café au lait is a visual novel game that makes the players feel immersed in story and character. They will experience the story in the game through the first-person perspective of the main character in the story named &quot;Takagi&quot;.
-
-![](https://store.steampowered.com/favicon.ico)STEAM
-
-![](https://cdn.akamai.steamstatic.com/steam/apps/2414020/capsule_616x353.jpg?t&#x3D;1689102286)
-](https://store.steampowered.com/app/2414020)https://store.steampowered.com/app/2414020

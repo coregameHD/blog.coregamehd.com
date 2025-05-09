@@ -20,14 +20,3 @@ GINKA เป็นเกมที่ผมเฝ้าติดตามตั�
 
 **Play Time:** 11 ชั่วโมง
 **Score:** 8/10 คะแนน
-[
-
-GINKA on Steam
-
-&quot;Return to that summer with you...&quot; Ryusei returns to the small island of his younger years, where time flows by gently, to spend a fairy-tale summer vacation with his childhood friend who was spirited away.
-
-![](https://store.steampowered.com/favicon.ico)STEAM
-
-![](https://cdn.akamai.steamstatic.com/steam/apps/2536840/capsule_616x353.jpg?t=1698370315)
-](https://store.steampowered.com/app/2536840/GINKA/)
-[https://store.steampowered.com/app/2536840/GINKA](https://store.steampowered.com/app/2536840/GINKA/)

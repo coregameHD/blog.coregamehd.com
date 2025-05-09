@@ -21,22 +21,3 @@ slug: "marco-to-ginga-ryuu-preview"
 การวางโครงเนื้อเรื่องน่าจะได้รับอิทธิพลจาก Noratoto ซึ่งถ้าเป็นแบบนั้นจริงๆ เนื้อเรื่องจะไม่สุดสักด้าน อย่างเช่นฉากซึ้งกินใจจะถูกตัดด้วยมุกตลกอย่างไม่มีปี่มีขลุ่ย ด้วยเหตุนี้จึงเหมาะสำหรับคนที่ชอบคอเมดี้มากกว่าความซีเรียสจริงจัง
 
 กล่าวโดยสรุป เกมนี้มีองค์ประกอบอะไรหลายๆ อย่างที่แตกต่างจากเกมทั่วไป ถ้าใครเบื่อเกมแนวโมเอะ ลองเปลี่ยนมาเล่นเกมนี้ดู 
-[
-
-Save 30% on Marco & The Galaxy Dragon on Steam
-
-Marco, an orphan with missing memories, and Arco, a dragon who rules the galaxy, were hunting for treasure in space! On one of their adventures, Marco was given a clue to the whereabouts of her mother. Their next stop, her birthplace - Earth!
-
-![](https://store.steampowered.com/favicon.ico)STEAM
-
-![](https://cdn.akamai.steamstatic.com/steam/apps/1202540/capsule_616x353.jpg?t&#x3D;1678773599)
-](https://store.steampowered.com/app/1202540)[https://store.steampowered.com/app/1202540](https://store.steampowered.com/app/1202540)[
-
-マルコと銀河竜
-
-マルコと銀河竜 2020.2.28発売予定！
-
-![](https://uyragnigotocr.am/favicon.ico)マルコと銀河竜
-
-![](https://uyragnigotocr.am/ogp.png)
-](https://uyragnigotocr.am)[https://uyragnigotocr.am](https://uyragnigotocr.am)
