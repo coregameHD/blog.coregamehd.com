@@ -68,15 +68,5 @@ slug: "why-i-study-japanese"
 
 ขอบคุณทุกคนที่ติดตามมาโดยตลอดครับ
 
-*@coregameHD
-02/12/2018*
-[
-
-Kagami Visual Novel
-
-[เหตุผลที่ผมเรียนภาษาญี่ปุ่น และเกมที่เปลี่ยนชีวิตผมไปตลอดกาล] วันนี้เป็นวันสอบวัดระดับภาษาญี่ปุ่น (JLPT) ผมขอเป็นกำลังใจให้ทุกคนสอบผ่านตามที่คาดหวังไว้…
-
-![](https://static.xx.fbcdn.net/rsrc.php/yv/r/B8BxsscfVBr.ico)FacebookKagami Visual Novel
-
-![](https://scontent-sin6-2.xx.fbcdn.net/v/t1.6435-9/46713623_2135494796490079_4302734349217824768_n.jpg?stp&#x3D;dst-jpg_p720x720&amp;_nc_cat&#x3D;108&amp;ccb&#x3D;1-7&amp;_nc_sid&#x3D;0be424&amp;_nc_ohc&#x3D;1AnuSuu8950AX_ImpU1&amp;_nc_ht&#x3D;scontent-sin6-2.xx&amp;oh&#x3D;00_AfD5qswqPIIie-DKaKD4ux4qnB-q4f3kUa8GMNgKJDWttQ&amp;oe&#x3D;643F52C1)
-](https://www.facebook.com/kagamivisualnovel/posts/2135497779823114)โพสต์ครั้งแรกที่เพจ Kagami Visual Novel ในวันที่ 2 ธันวาคม 2018
+@coregameHD
+02/12/2018
