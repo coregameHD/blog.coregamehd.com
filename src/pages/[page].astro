@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content';
+import { blogSetting } from '../data/config';
+import PaginatedBlogLayout from '../components/blog/PaginatedBlogLayout.astro';
+export const prerender = true;
+
+// Get static paths for all possible pages
+export async function getStaticPaths() {
+    const allPosts = await getCollection('blog');
+
+    // Filter posts
+    const filteredPosts = allPosts.filter((post) => {
+        return import.meta.env.DEV || post.data.publish !== false;
+    });
+
+    // Sort posts by date
+    const sortedPosts = filteredPosts.sort((a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf());
+
+    const totalPosts = sortedPosts.length;
+    const totalPages = Math.ceil(totalPosts / blogSetting.postsPerPage);
+
+    // Create paths for all pages
+    return Array.from({ length: totalPages }, (_, i) => {
+        const page = i + 1; // Start from page 1
+        const start = i * blogSetting.postsPerPage;
+        const end = start + blogSetting.postsPerPage;
+
+        // Skip page 1 as it's handled by index.astro
+        if (page === 1) return null;
+
+        return {
+            params: { page: String(page) },
+            props: {
+                page,
+                totalPages,
+                posts: sortedPosts.slice(start, end),
+            },
+        };
+    }).filter(Boolean); // Remove null entries
+}
+
+const { page, totalPages, posts } = Astro.props;
+---
+
+<PaginatedBlogLayout
+    {posts}
+    currentPage={page}
+    {totalPages}
+    baseUrl=""
+    title="Blog"
+    subtitle="Latest articles and news from the team"
+/>

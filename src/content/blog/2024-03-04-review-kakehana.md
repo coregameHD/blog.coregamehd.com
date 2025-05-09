@@ -1,0 +1,41 @@
+---
+title: "รีวิว Setsuna ni Kakeru Koi Hanabi (CRYSTALiA)"
+featuredImage: "https://res.cloudinary.com/kagamiweb/image/upload/v1746028264/blog.coregamehd.com/review-kakehana.jpg"
+publishDate: "2024-03-03"
+publish: True
+categories: ["Visual Novel"]
+slug: "review-kakehana"
+---
+
+
+Setsuna ni Kakeru Koi Hanabi 刹那にかける恋はなび (ชื่อย่อ: Kakehana) เป็นเกมซีรีส์ Katana ที่เล่าเกี่ยวกับนาเดชิโกะ ลูกสาวคนที่สองจากตระกูลสี่พี่น้องสึซาคุอิน ในภาพรวมถือเป็นเกมกีฬาการแข่งขันที่งานโปรดักชั่นสูงเกินมาตรฐาน และเป็นเกมที่ดีที่สุดเท่าที่ค่าย CRYSTALiA เคยทำมา
+
+ความสนุกของภาคนี้คือตัวละครหลักอย่างนาเดชิโกะไม่ใช่คนที่แข็งแกร่งที่สุด ทำให้ผู้เล่นรู้สึกลุ้นระทึกว่าจะชนะการแข่งขันหรือไม่ แตกต่างจากภาคก่อนหน้าที่วางเงินเดิมพันหมดหน้าตักได้เลยว่าตระกูลสึซาคุอินชนะขาดลอย นอกจากนี้ตัวละครรองอื่นๆ มีบทบาทสำคัญมากขึ้น จนบางช่วงของเกมมีความสำคัญมากกว่าตัวละครหลักทั้งสามคนเสียอีก
+
+---
+
+ในแง่มุมของเกมกีฬาการแข่งขันจินโด (ประลองดาบ) ภาคนี้แสดงให้เห็นถึงชั้นเชิง (tactics) มากขึ้น พละกำลังที่แข็งแกร่งอย่างเดียวไม่ได้ทำให้ชนะ จะเดินดุ่มๆ เข้าไปฟันคู่ต่อสู้ไม่ได้ ต้องอาศัยการวิเคราะห์สถานการณ์และอ่านเกมให้ขาดด้วย
+
+พลังพิเศษและท่าไม้ตายสมดุลมากขึ้น หลายกระบวนท่ามีความ high risk, high return อย่างมาก แม้แต่ท่วงท่าที่โกงที่สุดถ้าใช้ผิดจังหวะก็อาจกลายเป็นการเปิดช่องโหว่ พลิกจากได้เปรียบกลายเป็นแพ้ได้เลย
+
+ไคโซเอะนิน (ตำแหน่ง second ที่ช่วยเหลือและแนะนำแนวทางผู้แข่งขันในสนาม) มีบทบาทมากขึ้น หลายครั้งตัวเอกชนะได้เพราะปรับกลยุทธ์อย่างทันท่วงทีจากคำแนะนำของไคโซเอะนิน ทำให้ผู้เล่นเห็นถึงปฏิภาณที่แตกต่างกันของตัวละครแต่ละคน
+
+---
+
+
+นอกจากการแข่งขันที่เร้าใจ เกมภาคนี้เผยให้เห็นมิติด้านการเมืองมากขึ้น เช่น การบริหารจัดการงานหลังบ้านที่น่าเบื่อ การใช้เส้นสายเข้าแทรกแซง การเมืองภายในของผู้ทรงคุณวุฒิ เงินงบประมาณที่มีจำกัด ชื่อเสียงของวงศ์ตระกูล ทั้งหมดนี้ทำให้การสร้างโลก (world setting) มีความสมบูรณ์ยิ่งขึ้น
+
+อย่างไรก็ตาม น่าเสียดายอย่างยิ่งที่จุดอ่อนที่สุดของเกมนี้คือบทความรัก แม้ว่าชื่อเกมมีคำว่ารักอยู่ แต่ความรักนี้จืดจางและหายไปอย่างรวดเร็วฉับพลันยิ่งกว่าดอกไม้ไฟเสียอีก หากเปรียบเทียบกับเกมที่เน้นการแข่งขันอย่าง [Aokana Extra2](https://vndb.org/v21438) จะพบว่ายังห่างชั้นอีกมาก คาดว่าค่ายเกมน่าจะกั๊กเนื้อเรื่องส่วนหนึ่งไว้ทำ Fandisc
+
+กล่าวโดยสรุป Kakehana เป็นเกมที่ให้ประสบการณ์ที่น่าพึงพอใจอย่างมาก หากชอบซีรีส์ Katana ไม่ผิดหวังแน่นอน ทั้งนี้ควรเล่นเกม [Yureaka](https://vndb.org/v28712) ที่เป็นเนื้อหาในอดีตก่อนภาคนี้ด้วย เพื่อให้เข้าใจความเป็นไปต่างๆ ในเรื่องได้ดียิ่งขึ้น
+[
+
+Setsuna ni Kakeru Koi Hanabi
+
+In the 2040s in Japan, the near-future sport “Jindou” boasts a high popularity as the sport of the people. And the the most famous of all the Jindou performances is the “Daihouen”. Suzakuin Nadeshiko, although currently still a school student, has been fantastically making a name for herself as a pro swordswoman. On the other side, the protagonist Takizawa Kazuma, a washed-up pro swordsman, competes in underground Jindou matches to make ends meet. One day, these two who were born and lived in completely different worlds had a fateful meeting. “Kazuma-san, your swordsmanship is the real deal. Fight with us in the Daihouen and let’s make it to the top!” ”...yeah. If we could that’d be great” The pair, captivated by Jindou, are drawn to each other’s swordsmanship and seek each other. With Takizawa Komari and Hanabusa Palvi joining Team White Wolf too, they eventually make big waves on the stage of the Daihouen. If they win, glory awaits. If they lose, they fall from grace. With their beliefs held in their breasts, the swordsmen step out into a battle they can’t afford to lose in the intense world of pros. Swordsmen live in the moment. The “moment” you let slip will never come back-- in which case, set your soul alight. [Translated from the official website]
+
+![](https://vndb.org/favicon.ico)The Visual Novel Database
+
+![](https://t.vndb.org/cv/14/72114.jpg)
+](https://vndb.org/v47880)
+[https://vndb.org/v47880](https://vndb.org/v47880)
