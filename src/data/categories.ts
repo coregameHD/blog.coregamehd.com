@@ -8,22 +8,22 @@ export const categories: Category[] = [
   {
     name: 'General',
     slug: 'general',
-    description: 'เรื่องทั่วไป'
+    description: 'เรื่องสัพเพเหระทั่วไป'
   },
   {
     name: 'Language',
     slug: 'language',
-    description: 'ภาษา'
+    description: 'เรื่องเกี่ยวกับภาษา (โดยเฉพาะภาษาญี่ปุ่น)'
   },
   {
     name: 'Thoughts',
     slug: 'thoughts',
-    description: 'ความคิด'
+    description: 'บทความแสดงทรรศนะ'
   },
   {
     name: 'Visual Novel',
     slug: 'visual-novel',
-    description: 'วิชวลโนเวล'
+    description: 'เกมวิชวลโนเวลและเอโรเกะ'
   }
 ];
 
