@@ -79,11 +79,11 @@
     --border-radius-base: 1rem;
     --border-radius-large: 2rem;
     
-    --font-bruno-ace: 'Bruno Ace SC', sans-serif;
-    --font-noto-sans-kr: "Noto Sans KR", sans-serif;
-    --font-base: 'Noto Sans KR', sans-serif;
-    --font-logo: 'Bruno Ace SC', sans-serif;
-    --font-headline: 'Noto Sans KR', sans-serif;
+    --font-bruno-ace: 'Noto Sans Thai Looped', sans-serif;
+    --font-noto-sans-kr: 'Noto Sans Thai Looped', sans-serif;
+    --font-base: 'Noto Sans Thai Looped', sans-serif;
+    --font-logo: 'Noto Sans Thai Looped', sans-serif;
+    --font-headline: 'Noto Sans Thai Looped', sans-serif;
 }
 
 @layer base {
