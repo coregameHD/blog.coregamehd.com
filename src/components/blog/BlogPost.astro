@@ -11,9 +11,10 @@ interface Props {
     categories: string[];
     slug?: string;
     index: number;
+    isHome?: boolean;
 }
 
-const { title, featuredImage, publishDate, categories: postCategories, slug, index } = Astro.props;
+const { title, featuredImage, publishDate, categories: postCategories, slug, index, isHome } = Astro.props;
 
 // Validate categories against the valid categories
 const validCategories = postCategories.filter((categoryName: string) =>
@@ -59,7 +60,7 @@ const validCategories = postCategories.filter((categoryName: string) =>
             <Date date={publishDate} />
         </div>
 
-        <h2 class="text-xl font-bold text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">
+        <h2 class={`text-xl ${isHome ? 'font-semibold' : 'font-bold'} text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300`}>
             {title}
         </h2>
     </div>

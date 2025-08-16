@@ -7,9 +7,10 @@ import { getCollection } from 'astro:content';
 interface Props {
     posts: CollectionEntry<'blog'>[];
     currentCategory?: string;
+    isHome?: boolean;
 }
 
-const { posts, currentCategory } = Astro.props;
+const { posts, currentCategory, isHome } = Astro.props;
 
 // Get all posts to determine active categories
 const allPosts = await getCollection('blog', ({ data }) => {
@@ -83,6 +84,7 @@ const totalPosts = currentCategory
                         categories={post.data.categories || []}
                         slug={post.id}
                         index={index}
+                        isHome={isHome}
                     />
                 </div>
             ))

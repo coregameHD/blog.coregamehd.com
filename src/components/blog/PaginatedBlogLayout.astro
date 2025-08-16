@@ -56,7 +56,7 @@ const heroContent = {
 <Layout title={seoTitle} description={seoDescription}>
     <main>
     <InnerHero content={heroContent}/>
-    <BlogList posts={paginatedPosts} currentCategory={currentCategory} />
+    <BlogList posts={paginatedPosts} currentCategory={currentCategory} isHome={baseUrl === ''} />
 
     {totalPages > 1 && (
         <nav class="pagination-nav" aria-label="Blog pagination">
@@ -101,4 +101,4 @@ const heroContent = {
         </nav>
     )}
     </main>
-</Layout> 
+</Layout>
