@@ -478,6 +478,13 @@
     article ul ::marker { color: var(--color-primary); }
     article blockquote { font-size: var(--text-base); margin: 0 0 1.75rem; padding-left: 2rem; border-left: 4px solid var(--color-primary); }
     
+    .subtitle {
+        font-size: var(--text-large);
+        margin-top: 0.5rem;
+        line-height: 1.4;
+        font-weight: 400;
+        color: var(--color-body-base);
+    }
 }
 
 @layer utilities {
