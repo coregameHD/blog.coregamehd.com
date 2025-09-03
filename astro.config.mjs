@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 
 import sitemap from '@astrojs/sitemap';
+import react from "@astrojs/react";
 
 // Get the site URL from environment variable or use a default for local development
 const site = process.env.PUBLIC_SITE_URL || 'http://localhost:4321';
@@ -39,6 +40,7 @@ export default defineConfig({
       filter: (page) => !page.includes('/404'), // Only exclude 404 page
       entryLimit: 10000, // Increase entry limit if you have many pages
     }),
+    react(),
   ],
   image: {
     // Allow all remote patterns (https and http)

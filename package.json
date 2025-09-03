@@ -16,13 +16,18 @@
     },
     "devDependencies": {
         "@astrojs/check": "^0.9.4",
+        "@astrojs/react": "^3.6.0",
         "@astrojs/sitemap": "^3.5.0",
         "@tailwindcss/vite": "^4.0.14",
         "@types/aos": "^3.0.7",
+        "@types/react": "^18.3.3",
+        "@types/react-dom": "^18.3.0",
         "astro": "^5.13.2",
         "lucide-astro": "^0.483.0",
         "prettier": "^3.5.3",
-        "prettier-plugin-astro": "^0.14.1"
+        "prettier-plugin-astro": "^0.14.1",
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
     },
     "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)",
     "main": "prettier.config.js",
