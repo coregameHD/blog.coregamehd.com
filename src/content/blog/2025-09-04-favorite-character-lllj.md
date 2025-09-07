@@ -3,7 +3,7 @@ title: "ตัวละครโปรดใน LimeLight Lemonade Jam"
 featuredImage: "https://res.cloudinary.com/kagamiweb/image/upload/v1757243330/blog.coregamehd.com/favorite-character-lllj.jpg"
 publishDate: "2025-09-04"
 publish: true
-categories: ["General"]
+categories: ["Visual Novel"]
 slug: "favorite-character-lllj"
 ---
 

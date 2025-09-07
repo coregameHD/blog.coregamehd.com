@@ -18,6 +18,6 @@ export const footerMenu = [
 
 export const legalMenu = [
     { name: 'Docs', link: 'https://docs.coregamehd.com' },
-    { name: 'Tools', link: 'https://tools.coregamehd.com' },
+    { name: 'Template', link: 'https://template.coregamehd.com' },
     { name: 'Github', link: 'https://github.com/coregameHD/blog.coregamehd.com' }
 ];
