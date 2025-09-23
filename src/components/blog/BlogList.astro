@@ -37,7 +37,7 @@ const totalPosts = currentCategory
             <div class="flex flex-wrap gap-2">
                 <a
                     href="/"
-                    class={`px-4 sm:px-6 py-2 sm:py-3 leading-none rounded-md text-small flex items-center justify-center transition-colors border border-primary duration-200 ${
+                    class={`px-4 sm:px-6 py-2 sm:py-3 leading-none rounded-full text-small flex items-center justify-center transition-colors border border-primary duration-200 ${
                         !currentCategory
                             ? 'bg-primary text-body-dark shadow-md'
                             : 'bg-background text-body-base hover:bg-background-light hover:text-body-light'
@@ -50,7 +50,7 @@ const totalPosts = currentCategory
                         <div class="relative category-button">
                             <a
                                 href={`/category/${category.slug}`}
-                                class={`px-4 sm:px-6 py-2 sm:py-3 leading-none rounded-md text-small flex items-center justify-center transition-colors border border-primary duration-200 ${
+                                class={`px-4 sm:px-6 py-2 sm:py-3 leading-none rounded-full text-small flex items-center justify-center transition-colors border border-primary duration-200 ${
                                     currentCategory === category.name
                                         ? 'bg-primary text-body-dark shadow-md'
                                         : 'bg-background text-body-base hover:bg-background-light hover:text-body-light'
