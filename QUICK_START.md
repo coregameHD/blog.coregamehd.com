@@ -13,11 +13,12 @@ Your Astro blog now has Keystatic CMS integrated! Here's what was added:
 ### 📁 New Files Created
 - `keystatic.config.ts` - CMS configuration
 - `.env.example` - Environment variables template
-- `vercel.json` - Vercel deployment config
 - `KEYSTATIC_SETUP.md` - Detailed setup guide
 - `public/images/blog/` - Image upload directory
 
-**Note**: Keystatic routes (`/keystatic`) are automatically handled by the `keystatic()` integration in `astro.config.mjs`. No manual page files needed!
+**Note**: 
+- Keystatic routes (`/keystatic`) are automatically handled by the `keystatic()` integration in `astro.config.mjs`. No manual page files needed!
+- Vercel deployment is handled by `@astrojs/vercel` adapter. No `vercel.json` needed!
 
 ### ⚙️ Modified Files
 - `astro.config.mjs` - Added Keystatic, Markdoc, and Vercel adapter

@@ -1,8 +1,8 @@
 import { c as createComponent, r as renderComponent, a as renderTemplate } from '../chunks/astro/server_BAfHFqsZ.mjs';
 import 'kleur/colors';
 import { g as getCollection } from '../chunks/Date_DG8DK6b9.mjs';
-import { b as blogSetting } from '../chunks/Layout_C9lO7SRe.mjs';
-import { $ as $$PaginatedBlogLayout } from '../chunks/PaginatedBlogLayout_BeUv9jS2.mjs';
+import { b as blogSetting } from '../chunks/Layout_Y6ES3NQ6.mjs';
+import { $ as $$PaginatedBlogLayout } from '../chunks/PaginatedBlogLayout_DnWcRiG8.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$Index = createComponent(async ($$result, $$props, $$slots) => {
