@@ -4,7 +4,6 @@ import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 import { SEO, siteConfig } from "../data/config";
 import { themeSetting } from "../data/config";
-import { Analytics } from "@vercel/analytics/react";
 const { theme } = themeSetting;
 
 const { SiteName, Separator, defaultDescription } = SEO;
@@ -76,7 +75,9 @@ const fullCanonicalUrl = new URL(canonicalPath, siteConfig.siteUrl).toString();
 		<Header />
 		<slot />
 		<Footer footerCta={footerCta} />
-		<Analytics />
-		
+		<script>
+			import { inject } from "@vercel/analytics";
+			inject();
+		</script>
 	</body>
 </html>
