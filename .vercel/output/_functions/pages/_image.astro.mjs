@@ -1,5 +1,5 @@
-import { g as getConfiguredImageService, i as imageConfig, a as isRemoteAllowed } from '../chunks/_astro_assets_PcLluLAs.mjs';
-import { i as isRemotePath } from '../chunks/index_DW4HPV0C.mjs';
+import { g as getConfiguredImageService, i as imageConfig } from '../chunks/_astro_assets_DNjvqCD7.mjs';
+import { i as isRemotePath, a as isRemoteAllowed } from '../chunks/index_l143NPzF.mjs';
 import * as mime from 'mrmime';
 export { renderers } from '../renderers.mjs';
 
@@ -59,6 +59,9 @@ const GET = async ({ request }) => {
       return new Response("Forbidden", { status: 403 });
     }
     const sourceUrl = new URL(transform.src, url.origin);
+    if (!isRemoteImage && sourceUrl.origin !== url.origin) {
+      return new Response("Forbidden", { status: 403 });
+    }
     inputBuffer = await loadRemoteImage(sourceUrl, isRemoteImage ? new Headers() : request.headers);
     if (!inputBuffer) {
       return new Response("Not Found", { status: 404 });

@@ -1,8 +1,8 @@
-import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../chunks/astro/server_CBlHAyeV.mjs';
+import { c as createComponent, r as renderComponent, a as renderTemplate, m as maybeRenderHead } from '../chunks/astro/server_BAfHFqsZ.mjs';
 import 'kleur/colors';
-import { $ as $$Layout } from '../chunks/Layout_D-rVrUyA.mjs';
-import '../chunks/index_DW4HPV0C.mjs';
-import { $ as $$Image } from '../chunks/_astro_assets_PcLluLAs.mjs';
+import { $ as $$Layout } from '../chunks/Layout_C9lO7SRe.mjs';
+import '../chunks/index_l143NPzF.mjs';
+import { $ as $$Image } from '../chunks/_astro_assets_DNjvqCD7.mjs';
 export { renderers } from '../renderers.mjs';
 
 const aboutImage = new Proxy({"src":"/_astro/background4.CywUWvHe.webp","width":5760,"height":3240,"format":"webp"}, {

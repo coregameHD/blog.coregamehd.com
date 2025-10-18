@@ -1,15 +1,21 @@
-import { m as makeHandler, k as keystaticConfig } from '../../chunks/keystatic.config_CKObLKtO.mjs';
+import { c as createComponent, r as renderComponent, a as renderTemplate } from '../../chunks/astro/server_BAfHFqsZ.mjs';
+import 'kleur/colors';
 export { renderers } from '../../renderers.mjs';
 
 const prerender = false;
-const ALL = makeHandler({
-  config: keystaticConfig
-});
+const $$KeystaticAstroPage = createComponent(($$result, $$props, $$slots) => {
+  return renderTemplate`${renderComponent($$result, "Keystatic", null, { "client:only": "react", "client:component-hydration": "only", "client:component-path": "/Users/coregamehd/Documents/Github/blog.coregamehd.com/node_modules/@keystatic/astro/internal/keystatic-page.js", "client:component-export": "Keystatic" })}`;
+}, "/Users/coregamehd/Documents/Github/blog.coregamehd.com/node_modules/@keystatic/astro/internal/keystatic-astro-page.astro", void 0);
+
+const $$file = "/Users/coregamehd/Documents/Github/blog.coregamehd.com/node_modules/@keystatic/astro/internal/keystatic-astro-page.astro";
+const $$url = undefined;
 
 const _page = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
-  __proto__: null,
-  ALL,
-  prerender
+	__proto__: null,
+	default: $$KeystaticAstroPage,
+	file: $$file,
+	prerender,
+	url: $$url
 }, Symbol.toStringTag, { value: 'Module' }));
 
 const page = () => _page;

@@ -4,6 +4,8 @@ import PaginatedBlogLayout from '../../components/blog/PaginatedBlogLayout.astro
 import { categories } from '../../data/categories';
 import { blogSetting } from '../../data/config';
 
+export const prerender = true;
+
 export async function getStaticPaths() {
   // Get all blog posts
 const allPosts = await getCollection('blog', ({ data }) => {

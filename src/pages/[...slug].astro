@@ -5,6 +5,8 @@ import CategoryPill from '@components/ui/CategoryPill.astro';
 import Date from '@components/ui/Date.astro';
 import { Image } from 'astro:assets';
 
+export const prerender = true;
+
 export async function getStaticPaths() {
     const posts = await getCollection('blog');
     return posts.map((post) => ({

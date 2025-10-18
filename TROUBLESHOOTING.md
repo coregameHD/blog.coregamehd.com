@@ -2,6 +2,28 @@
 
 ## Common Issues and Solutions
 
+### Category Pages Not Working (404 Error)
+
+**Problem**: Category pages like `/category/general` return 404 in production
+
+**Cause**: Pages with `getStaticPaths()` need `export const prerender = true;` in server mode.
+
+**Solution**: ✅ **Already fixed in this project!**
+
+All category pages now have the prerender flag. If you add new dynamic pages, remember to add:
+
+```astro
+---
+export const prerender = true;
+
+export async function getStaticPaths() {
+  // your paths
+}
+---
+```
+
+See `SERVER_MODE_FIX.md` for detailed explanation.
+
 ### 500 Internal Server Error on /keystatic
 
 **Problem**: Getting 500 error when visiting `/keystatic`
