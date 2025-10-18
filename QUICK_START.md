@@ -47,8 +47,10 @@ cp .env.example .env
 **For Vercel:**
 Add these environment variables in your Vercel project settings:
 - `PUBLIC_SITE_URL` = `https://blog.coregamehd.com`
-- `KEYSTATIC_GITHUB_CLIENT_ID` = Your Client ID
-- `KEYSTATIC_GITHUB_CLIENT_SECRET` = Your Client Secret
+- `GITHUB_CLIENT_ID` = Your GitHub OAuth Client ID
+- `GITHUB_CLIENT_SECRET` = Your GitHub OAuth Client Secret
+
+**Important**: Use `GITHUB_CLIENT_ID` and `GITHUB_CLIENT_SECRET` (not KEYSTATIC_* prefix)
 
 ### 3. Deploy to Vercel
 

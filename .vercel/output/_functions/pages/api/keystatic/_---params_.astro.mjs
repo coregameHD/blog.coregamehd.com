@@ -89,10 +89,7 @@ function tryOrUndefined(fn) {
 const config = config$1({
   storage: {
     kind: "github",
-    repo: {
-      owner: "coregameHD",
-      name: "blog.coregamehd.com"
-    }
+    repo: "coregameHD/blog.coregamehd.com"
   },
   collections: {
     blog: collection({

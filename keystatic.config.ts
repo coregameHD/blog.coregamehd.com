@@ -3,10 +3,7 @@ import { config, fields, collection } from '@keystatic/core';
 export default config({
   storage: {
     kind: 'github',
-    repo: {
-      owner: 'coregameHD',
-      name: 'blog.coregamehd.com',
-    },
+    repo: 'coregameHD/blog.coregamehd.com',
   },
   collections: {
     blog: collection({
