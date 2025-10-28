@@ -24,9 +24,7 @@
 
 ## 📝 Content Management
 
-Content is managed through Markdown files in the `src/content/` directory:
-- Blog posts: `src/content/blog/`
-- Legal pages: `src/content/legal/`
+Titan Core uses Astro's content collections for blog posts and other content. Add your content to the `src/content/` directory.
 
 ## 🧩 Components
 
@@ -50,16 +48,6 @@ Titan Core includes a wide range of components:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🚀 Deployment
-
-This site is configured for deployment on **Vercel**.
-
-1. Connect your GitHub repository to Vercel
-2. Configure environment variables (PUBLIC_SITE_URL)
-3. Deploy!
-
-Vercel will automatically rebuild your site when you push changes to GitHub.
 
 ## 🙏 Credits
 

@@ -3,8 +3,6 @@ import tailwindcss from '@tailwindcss/vite';
 
 import sitemap from '@astrojs/sitemap';
 import react from "@astrojs/react";
-import markdoc from '@astrojs/markdoc';
-import vercel from '@astrojs/vercel';
 
 // Get the site URL from environment variable or use a default for local development
 const site = process.env.PUBLIC_SITE_URL || 'http://localhost:4321';
@@ -34,8 +32,6 @@ export default defineConfig({
       lineNumbersPrefix: ''
     }
   },
-  output: 'server',
-  adapter: vercel(),
   integrations: [
     sitemap({
       changefreq: 'weekly',
@@ -45,7 +41,6 @@ export default defineConfig({
       entryLimit: 10000, // Increase entry limit if you have many pages
     }),
     react(),
-    markdoc(),
   ],
   image: {
     // Allow all remote patterns (https and http)

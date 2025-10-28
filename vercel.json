@@ -1,5 +1,0 @@
-{
-  "buildCommand": "rm -rf .astro && npm run build",
-  "framework": "astro",
-  "outputDirectory": "dist"
-}
