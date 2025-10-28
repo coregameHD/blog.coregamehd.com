@@ -24,22 +24,7 @@
 
 ## 📝 Content Management
 
-This blog now includes **Keystatic CMS** for easy content management through a visual interface!
-
-### Using Keystatic CMS
-
-- **Admin Panel**: Access at `/keystatic` (e.g., `http://localhost:4321/keystatic`)
-- **Features**: 
-  - Visual editor for blog posts and legal pages
-  - Image upload support
-  - GitHub-based content storage
-  - Automatic deployments on Vercel
-
-For detailed setup instructions, see [KEYSTATIC_SETUP.md](./KEYSTATIC_SETUP.md).
-
-### Manual Content Management
-
-You can also manually add content to the `src/content/` directory:
+Content is managed through Markdown files in the `src/content/` directory:
 - Blog posts: `src/content/blog/`
 - Legal pages: `src/content/legal/`
 
@@ -68,17 +53,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 🚀 Deployment
 
-This site is configured for deployment on **Vercel** with Keystatic CMS integration.
+This site is configured for deployment on **Vercel**.
 
 1. Connect your GitHub repository to Vercel
-2. Configure environment variables (see [KEYSTATIC_SETUP.md](./KEYSTATIC_SETUP.md))
+2. Configure environment variables (PUBLIC_SITE_URL)
 3. Deploy!
 
-Vercel will automatically rebuild your site when you make changes through Keystatic.
+Vercel will automatically rebuild your site when you push changes to GitHub.
 
 ## 🙏 Credits
 
 - Built with [Astro](https://astro.build)
-- CMS by [Keystatic](https://keystatic.com)
 - Animations by [AOS](https://michalsnik.github.io/aos/)
 - Icons from [Lucide](https://lucide.dev)

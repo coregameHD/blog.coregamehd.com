@@ -4,7 +4,6 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 import react from "@astrojs/react";
 import markdoc from '@astrojs/markdoc';
-import keystatic from '@keystatic/astro';
 import vercel from '@astrojs/vercel';
 
 // Get the site URL from environment variable or use a default for local development
@@ -47,7 +46,6 @@ export default defineConfig({
     }),
     react(),
     markdoc(),
-    keystatic(),
   ],
   image: {
     // Allow all remote patterns (https and http)

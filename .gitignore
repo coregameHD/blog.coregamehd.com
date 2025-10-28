@@ -130,6 +130,3 @@ temp/
 
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
-
-# Keystatic local storage (if using local mode)
-.keystatic/

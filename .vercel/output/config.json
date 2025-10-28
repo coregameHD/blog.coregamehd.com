@@ -28,15 +28,7 @@
 			"dest": "_render"
 		},
 		{
-			"src": "^/api/keystatic(?:/(.*?))?/?$",
-			"dest": "_render"
-		},
-		{
 			"src": "^/blog/?$",
-			"dest": "_render"
-		},
-		{
-			"src": "^/keystatic(?:/(.*?))?/?$",
 			"dest": "_render"
 		},
 		{
