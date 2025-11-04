@@ -91,7 +91,7 @@ const heroContent = {
                                 <a
                                     key={pageNum}
                                     href={pageUrl}
-                                    class={`w-10 h-10 flex items-center justify-center rounded-full transition-colors ${
+                                    class={`min-w-8 h-8 text-sm flex items-center justify-center rounded-full transition-colors ${
                                         currentPage === pageNum
                                             ? 'bg-primary text-white'
                                             : 'hover:bg-white hover:text-body-base'
@@ -113,9 +113,9 @@ const heroContent = {
                 </div>
                 
                 {/* Mobile Layout - Numbers on top, buttons below */}
-                <div class="flex flex-col items-center gap-4 sm:hidden">
+                <div class="flex flex-col items-center w-full gap-3 sm:hidden">
                     {/* Pagination Numbers - Top */}
-                    <div class="flex items-center justify-center gap-2">
+                    <div class="flex flex-wrap items-center justify-center gap-1 w-full max-w-[90vw] overflow-x-auto py-1 px-2">
                         {getPaginationNumbers(currentPage, totalPages, 3).map((pageNum, index) => {
                             if (pageNum === '...') {
                                 return (
@@ -135,7 +135,7 @@ const heroContent = {
                                 <a
                                     key={`mobile-${pageNum}`}
                                     href={pageUrl}
-                                    class={`w-10 h-10 flex items-center justify-center rounded-full transition-colors ${
+                                    class={`min-w-8 h-8 text-sm flex items-center justify-center rounded-full transition-colors ${
                                         currentPage === pageNum
                                             ? 'bg-primary text-white'
                                             : 'hover:bg-white hover:text-body-base'
@@ -149,18 +149,28 @@ const heroContent = {
                     </div>
                     
                     {/* Buttons - Bottom, side by side */}
-                    <div class="flex w-full justify-center gap-4 mt-2">
+                    <div class="flex w-full justify-between gap-2 mt-1 max-w-[90vw]">
                         {prevPage && (
-                            <Button href={prevPage} variant="primary" class="flex-1 sm:flex-none flex items-center justify-center gap-2">
-                                <ChevronLeft size={20} />
-                                <span>Previous</span>
+                            <Button 
+                                href={prevPage} 
+                                variant="primary" 
+                                size="sm"
+                                class="flex-1 sm:flex-none flex items-center justify-center gap-1 px-3 py-2 text-sm whitespace-nowrap"
+                            >
+                                <ChevronLeft size={16} />
+                                <span>Prev</span>
                             </Button>
                         )}
                         
                         {nextPage && (
-                            <Button href={nextPage} variant="primary" class="flex-1 sm:flex-none flex items-center justify-center gap-2">
+                            <Button 
+                                href={nextPage} 
+                                variant="primary" 
+                                size="sm"
+                                class="flex-1 sm:flex-none flex items-center justify-center gap-1 px-3 py-2 text-sm whitespace-nowrap"
+                            >
                                 <span>Next</span>
-                                <ChevronRight size={20} />
+                                <ChevronRight size={16} />
                             </Button>
                         )}
                     </div>
