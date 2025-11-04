@@ -6,7 +6,7 @@ import { categories } from '@data/categories';
 const categoryNames = categories.map((category) => category.name);
 
 const blog = defineCollection({
-    loader: glob({ base: './src/content/blog', pattern: '**/*.md' }),
+    loader: glob({ base: './src/content', pattern: '*.md' }),
     schema: ({ image }) =>
         z.object({
             title: z.string(),
@@ -24,18 +24,4 @@ const blog = defineCollection({
         }),
 });
 
-const legal = defineCollection({
-    loader: glob({ base: './src/content/legal', pattern: '**/*.md' }),
-    schema: z.object({
-        title: z.string(),
-        lastUpdated: z.string().transform((str) => new Date(str)),
-        seo: z
-            .object({
-                title: z.string().optional(),
-                description: z.string().optional(),
-            })
-            .optional(),
-    }),
-});
-
-export const collections = { blog, legal };
+export const collections = { blog };
