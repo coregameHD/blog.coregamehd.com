@@ -61,16 +61,17 @@ const heroContent = {
 
     {totalPages > 1 && (
         <nav class="pagination-nav" aria-label="Blog pagination">
-            <div class="container mx-auto px-4 py-12">
-                <div class="flex items-center justify-center gap-6">
+            <div class="container mx-auto px-4 py-6 sm:py-12">
+                {/* Desktop Layout - Buttons on sides, numbers in center */}
+                <div class="hidden sm:flex flex-row items-center justify-center gap-6">
                     {prevPage && (
-                        <Button href={prevPage} variant="primary" class="flex items-center gap-2">
+                        <Button href={prevPage} variant="primary" class="flex items-center justify-center gap-2">
                             <ChevronLeft size={20} />
-                            Previous
+                            <span>Previous</span>
                         </Button>
                     )}
                     
-                    <div class="flex items-center gap-2">
+                    <div class="flex items-center justify-center gap-2">
                         {getPaginationNumbers(currentPage, totalPages, 3).map((pageNum, index) => {
                             if (pageNum === '...') {
                                 return (
@@ -102,13 +103,67 @@ const heroContent = {
                             );
                         })}
                     </div>
-
+                    
                     {nextPage && (
-                        <Button href={nextPage} variant="primary">
-                            Next
+                        <Button href={nextPage} variant="primary" class="flex items-center justify-center gap-2">
+                            <span>Next</span>
                             <ChevronRight size={20} />
                         </Button>
                     )}
+                </div>
+                
+                {/* Mobile Layout - Numbers on top, buttons below */}
+                <div class="flex flex-col items-center gap-4 sm:hidden">
+                    {/* Pagination Numbers - Top */}
+                    <div class="flex items-center justify-center gap-2">
+                        {getPaginationNumbers(currentPage, totalPages, 3).map((pageNum, index) => {
+                            if (pageNum === '...') {
+                                return (
+                                    <span key={`mobile-ellipsis-${index}`} class="px-2">
+                                        {pageNum}
+                                    </span>
+                                );
+                            }
+                            
+                            const pageUrl = pageNum === 1 
+                                ? baseUrl.startsWith('/category') ? baseUrl : "/"
+                                : baseUrl.startsWith('/category') 
+                                    ? `${baseUrl}/${pageNum}`
+                                    : `/${pageNum}`;
+                            
+                            return (
+                                <a
+                                    key={`mobile-${pageNum}`}
+                                    href={pageUrl}
+                                    class={`w-10 h-10 flex items-center justify-center rounded-full transition-colors ${
+                                        currentPage === pageNum
+                                            ? 'bg-primary text-white'
+                                            : 'hover:bg-white hover:text-body-base'
+                                    }`}
+                                    aria-current={currentPage === pageNum ? 'page' : undefined}
+                                >
+                                    {pageNum}
+                                </a>
+                            );
+                        })}
+                    </div>
+                    
+                    {/* Buttons - Bottom, side by side */}
+                    <div class="flex w-full justify-center gap-4 mt-2">
+                        {prevPage && (
+                            <Button href={prevPage} variant="primary" class="flex-1 sm:flex-none flex items-center justify-center gap-2">
+                                <ChevronLeft size={20} />
+                                <span>Previous</span>
+                            </Button>
+                        )}
+                        
+                        {nextPage && (
+                            <Button href={nextPage} variant="primary" class="flex-1 sm:flex-none flex items-center justify-center gap-2">
+                                <span>Next</span>
+                                <ChevronRight size={20} />
+                            </Button>
+                        )}
+                    </div>
                 </div>
             </div>
         </nav>
