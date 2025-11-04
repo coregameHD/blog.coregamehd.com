@@ -65,7 +65,7 @@ const heroContent = {
                 {/* Desktop Layout - Buttons on sides, numbers in center */}
                 <div class="hidden sm:flex flex-row items-center justify-center gap-6">
                     {prevPage && (
-                        <Button href={prevPage} variant="primary" class="flex items-center justify-center gap-2">
+                        <Button href={prevPage} variant="primary" class="flex items-center justify-center gap-2 text-base">
                             <ChevronLeft size={20} />
                             <span>Previous</span>
                         </Button>
@@ -91,7 +91,7 @@ const heroContent = {
                                 <a
                                     key={pageNum}
                                     href={pageUrl}
-                                    class={`min-w-8 h-8 text-sm flex items-center justify-center rounded-full transition-colors ${
+                                    class={`min-w-9 h-9 text-base flex items-center justify-center rounded-full transition-colors ${
                                         currentPage === pageNum
                                             ? 'bg-primary text-white'
                                             : 'hover:bg-white hover:text-body-base'
@@ -105,7 +105,7 @@ const heroContent = {
                     </div>
                     
                     {nextPage && (
-                        <Button href={nextPage} variant="primary" class="flex items-center justify-center gap-2">
+                        <Button href={nextPage} variant="primary" class="flex items-center justify-center gap-2 text-base">
                             <span>Next</span>
                             <ChevronRight size={20} />
                         </Button>
@@ -135,7 +135,7 @@ const heroContent = {
                                 <a
                                     key={`mobile-${pageNum}`}
                                     href={pageUrl}
-                                    class={`min-w-8 h-8 text-sm flex items-center justify-center rounded-full transition-colors ${
+                                    class={`min-w-9 h-9 text-base flex items-center justify-center rounded-full transition-colors ${
                                         currentPage === pageNum
                                             ? 'bg-primary text-white'
                                             : 'hover:bg-white hover:text-body-base'
@@ -155,7 +155,7 @@ const heroContent = {
                                 href={prevPage} 
                                 variant="primary" 
                                 size="sm"
-                                class="flex-1 sm:flex-none flex items-center justify-center gap-1 px-3 py-2 text-sm whitespace-nowrap"
+                                class="flex-1 sm:flex-none flex items-center justify-center gap-1 px-3 py-2 text-base whitespace-nowrap text-base"
                             >
                                 <ChevronLeft size={16} />
                                 <span>Prev</span>
@@ -167,7 +167,7 @@ const heroContent = {
                                 href={nextPage} 
                                 variant="primary" 
                                 size="sm"
-                                class="flex-1 sm:flex-none flex items-center justify-center gap-1 px-3 py-2 text-sm whitespace-nowrap"
+                                class="flex-1 sm:flex-none flex items-center justify-center gap-1 px-3 py-2 text-base whitespace-nowrap text-base"
                             >
                                 <span>Next</span>
                                 <ChevronRight size={16} />
