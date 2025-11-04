@@ -4,6 +4,7 @@ import BlogList from './BlogList.astro';
 import InnerHero from '../sections/InnerHero.astro';
 import Button from '../ui/Button.astro';
 import { ChevronLeft, ChevronRight } from 'lucide-astro';
+import { getPaginationNumbers } from '../../utils/pagination';
 
 import blogHeroImage from '@assets/images/background6.jpg';
 
@@ -70,24 +71,36 @@ const heroContent = {
                     )}
                     
                     <div class="flex items-center gap-2">
-                        {Array.from({ length: totalPages }, (_, i) => i + 1).map((pageNum) => (
-                            <a
-                                href={pageNum === 1 
-                                    ? baseUrl.startsWith('/category') ? baseUrl : "/"
-                                    : baseUrl.startsWith('/category') 
-                                        ? `${baseUrl}/${pageNum}`
-                                        : `/${pageNum}`
-                                }
-                                class={`w-10 h-10 flex items-center justify-center rounded-full transition-colors ${
-                                    currentPage === pageNum
-                                        ? 'bg-primary text-white'
-                                        : 'hover:bg-white hover:text-body-base'
-                                }`}
-                                aria-current={currentPage === pageNum ? 'page' : undefined}
-                            >
-                                {pageNum}
-                            </a>
-                        ))}
+                        {getPaginationNumbers(currentPage, totalPages, 3).map((pageNum, index) => {
+                            if (pageNum === '...') {
+                                return (
+                                    <span key={`ellipsis-${index}`} class="px-2">
+                                        {pageNum}
+                                    </span>
+                                );
+                            }
+                            
+                            const pageUrl = pageNum === 1 
+                                ? baseUrl.startsWith('/category') ? baseUrl : "/"
+                                : baseUrl.startsWith('/category') 
+                                    ? `${baseUrl}/${pageNum}`
+                                    : `/${pageNum}`;
+                            
+                            return (
+                                <a
+                                    key={pageNum}
+                                    href={pageUrl}
+                                    class={`w-10 h-10 flex items-center justify-center rounded-full transition-colors ${
+                                        currentPage === pageNum
+                                            ? 'bg-primary text-white'
+                                            : 'hover:bg-white hover:text-body-base'
+                                    }`}
+                                    aria-current={currentPage === pageNum ? 'page' : undefined}
+                                >
+                                    {pageNum}
+                                </a>
+                            );
+                        })}
                     </div>
 
                     {nextPage && (
