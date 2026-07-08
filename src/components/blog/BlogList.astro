@@ -73,6 +73,12 @@ const totalPosts = currentCategory
         </p>
     </div>
 
+    {isHome && (
+        <div style="background:#ffcc00;color:#000;text-align:center;padding:16px;font-weight:700;" class="rounded-lg mb-8">
+            เข้าไปเยี่ยมชม Blog ใหม่ได้ที่ <a href="https://kagamix.com/blog" style="color:#000;text-decoration:underline;">kagamix.com/blog</a>
+        </div>
+    )}
+
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
         {
             posts.map((post, index) => (
