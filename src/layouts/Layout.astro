@@ -73,6 +73,9 @@ const fullCanonicalUrl = new URL(canonicalPath, siteConfig.siteUrl).toString();
 		{pageImage && <meta property="twitter:image" content={new URL(pageImage, siteConfig.siteUrl).toString()} />}
 	</head>
 	<body data-theme={theme}>
+		<div style="background:#ffcc00;color:#000;text-align:center;padding:12px 16px;font-weight:700;font-size:0.95rem;position:sticky;top:0;z-index:9999;">
+			เว็บไซต์นี้เลิกใช้งาน ไม่มีการอัปเดตแล้ว ย้ายไปที่ <a href="https://kagamix.com/blog" style="color:#000;text-decoration:underline;">kagamix.com/blog</a>
+		</div>
 		<Header />
 		<slot />
 		<Footer footerCta={footerCta} />
