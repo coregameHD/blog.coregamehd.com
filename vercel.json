@@ -1,0 +1,1424 @@
+{
+  "redirects": [
+    {
+      "source": "/why-i-study-japanese",
+      "destination": "https://kagamix.com/blog/1",
+      "permanent": true
+    },
+    {
+      "source": "/minori-kaisan",
+      "destination": "https://kagamix.com/blog/2",
+      "permanent": true
+    },
+    {
+      "source": "/why-study-mathematics",
+      "destination": "https://kagamix.com/blog/3",
+      "permanent": true
+    },
+    {
+      "source": "/red-brick-warehouse",
+      "destination": "https://kagamix.com/blog/4",
+      "permanent": true
+    },
+    {
+      "source": "/yokohama-cosmo-world",
+      "destination": "https://kagamix.com/blog/5",
+      "permanent": true
+    },
+    {
+      "source": "/kotowaza-reference",
+      "destination": "https://kagamix.com/blog/6",
+      "permanent": true
+    },
+    {
+      "source": "/cafe-stella-taikenban",
+      "destination": "https://kagamix.com/blog/7",
+      "permanent": true
+    },
+    {
+      "source": "/ubiquitous",
+      "destination": "https://kagamix.com/blog/8",
+      "permanent": true
+    },
+    {
+      "source": "/localization-in-senren-banka",
+      "destination": "https://kagamix.com/blog/9",
+      "permanent": true
+    },
+    {
+      "source": "/summer-pockets-kamome-route-summary",
+      "destination": "https://kagamix.com/blog/10",
+      "permanent": true
+    },
+    {
+      "source": "/toeic-score-2020",
+      "destination": "https://kagamix.com/blog/11",
+      "permanent": true
+    },
+    {
+      "source": "/marco-to-ginga-ryuu-preview",
+      "destination": "https://kagamix.com/blog/12",
+      "permanent": true
+    },
+    {
+      "source": "/9-yukiiro-review",
+      "destination": "https://kagamix.com/blog/13",
+      "permanent": true
+    },
+    {
+      "source": "/localization-in-atri",
+      "destination": "https://kagamix.com/blog/14",
+      "permanent": true
+    },
+    {
+      "source": "/minato-no-mieru-oka",
+      "destination": "https://kagamix.com/blog/15",
+      "permanent": true
+    },
+    {
+      "source": "/kotodama",
+      "destination": "https://kagamix.com/blog/16",
+      "permanent": true
+    },
+    {
+      "source": "/ningen-shikaku-kanji",
+      "destination": "https://kagamix.com/blog/17",
+      "permanent": true
+    },
+    {
+      "source": "/game-caster",
+      "destination": "https://kagamix.com/blog/18",
+      "permanent": true
+    },
+    {
+      "source": "/noble-obligation",
+      "destination": "https://kagamix.com/blog/19",
+      "permanent": true
+    },
+    {
+      "source": "/mano-aloe",
+      "destination": "https://kagamix.com/blog/20",
+      "permanent": true
+    },
+    {
+      "source": "/regret",
+      "destination": "https://kagamix.com/blog/21",
+      "permanent": true
+    },
+    {
+      "source": "/hajirabu-making-lovers-preview",
+      "destination": "https://kagamix.com/blog/22",
+      "permanent": true
+    },
+    {
+      "source": "/content-creator-101-part1",
+      "destination": "https://kagamix.com/blog/23",
+      "permanent": true
+    },
+    {
+      "source": "/content-creator-101-part2",
+      "destination": "https://kagamix.com/blog/24",
+      "permanent": true
+    },
+    {
+      "source": "/happy-live-show-up-preview",
+      "destination": "https://kagamix.com/blog/25",
+      "permanent": true
+    },
+    {
+      "source": "/happy-live-show-up-review",
+      "destination": "https://kagamix.com/blog/26",
+      "permanent": true
+    },
+    {
+      "source": "/shoujo-shiniki-shoujo-tengoku-preview",
+      "destination": "https://kagamix.com/blog/27",
+      "permanent": true
+    },
+    {
+      "source": "/use-ipad-instead-of-notebook",
+      "destination": "https://kagamix.com/blog/28",
+      "permanent": true
+    },
+    {
+      "source": "/tsuiteiru",
+      "destination": "https://kagamix.com/blog/29",
+      "permanent": true
+    },
+    {
+      "source": "/gut-feeling",
+      "destination": "https://kagamix.com/blog/30",
+      "permanent": true
+    },
+    {
+      "source": "/kunado-kokuki-preview",
+      "destination": "https://kagamix.com/blog/31",
+      "permanent": true
+    },
+    {
+      "source": "/all-about-ambitious",
+      "destination": "https://kagamix.com/blog/32",
+      "permanent": true
+    },
+    {
+      "source": "/mashimaro-pun",
+      "destination": "https://kagamix.com/blog/33",
+      "permanent": true
+    },
+    {
+      "source": "/pirated-anime",
+      "destination": "https://kagamix.com/blog/34",
+      "permanent": true
+    },
+    {
+      "source": "/content-creator-struggle",
+      "destination": "https://kagamix.com/blog/35",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-create-content",
+      "destination": "https://kagamix.com/blog/36",
+      "permanent": true
+    },
+    {
+      "source": "/neko-to-wakai-seyo",
+      "destination": "https://kagamix.com/blog/37",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-be-popular-and-gain-followers",
+      "destination": "https://kagamix.com/blog/38",
+      "permanent": true
+    },
+    {
+      "source": "/real-time-content",
+      "destination": "https://kagamix.com/blog/39",
+      "permanent": true
+    },
+    {
+      "source": "/aokana-extra2-review",
+      "destination": "https://kagamix.com/blog/40",
+      "permanent": true
+    },
+    {
+      "source": "/people-are-dominated-by-numbers",
+      "destination": "https://kagamix.com/blog/41",
+      "permanent": true
+    },
+    {
+      "source": "/drama-honorific",
+      "destination": "https://kagamix.com/blog/42",
+      "permanent": true
+    },
+    {
+      "source": "/coffee-price-increase",
+      "destination": "https://kagamix.com/blog/43",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-apologize",
+      "destination": "https://kagamix.com/blog/44",
+      "permanent": true
+    },
+    {
+      "source": "/university-rank",
+      "destination": "https://kagamix.com/blog/45",
+      "permanent": true
+    },
+    {
+      "source": "/review-cu-tep-2022",
+      "destination": "https://kagamix.com/blog/46",
+      "permanent": true
+    },
+    {
+      "source": "/2045-tsuki-yori-mini-review",
+      "destination": "https://kagamix.com/blog/47",
+      "permanent": true
+    },
+    {
+      "source": "/cu-tep-score-2022",
+      "destination": "https://kagamix.com/blog/48",
+      "permanent": true
+    },
+    {
+      "source": "/kiss-kara-hajimeru-egoism-mini-review",
+      "destination": "https://kagamix.com/blog/49",
+      "permanent": true
+    },
+    {
+      "source": "/cedt-chula",
+      "destination": "https://kagamix.com/blog/50",
+      "permanent": true
+    },
+    {
+      "source": "/cooperative-principle",
+      "destination": "https://kagamix.com/blog/51",
+      "permanent": true
+    },
+    {
+      "source": "/reasonableness",
+      "destination": "https://kagamix.com/blog/52",
+      "permanent": true
+    },
+    {
+      "source": "/soukano-append-patch",
+      "destination": "https://kagamix.com/blog/53",
+      "permanent": true
+    },
+    {
+      "source": "/curse-of-knowledge",
+      "destination": "https://kagamix.com/blog/54",
+      "permanent": true
+    },
+    {
+      "source": "/hatsukoi-nikki",
+      "destination": "https://kagamix.com/blog/55",
+      "permanent": true
+    },
+    {
+      "source": "/kodomo-no-asobi-review",
+      "destination": "https://kagamix.com/blog/56",
+      "permanent": true
+    },
+    {
+      "source": "/end-credit-in-cinema",
+      "destination": "https://kagamix.com/blog/57",
+      "permanent": true
+    },
+    {
+      "source": "/equivalence-in-translation",
+      "destination": "https://kagamix.com/blog/58",
+      "permanent": true
+    },
+    {
+      "source": "/deverbalization",
+      "destination": "https://kagamix.com/blog/59",
+      "permanent": true
+    },
+    {
+      "source": "/argumentum-ad-ignorantiam",
+      "destination": "https://kagamix.com/blog/60",
+      "permanent": true
+    },
+    {
+      "source": "/best-solution",
+      "destination": "https://kagamix.com/blog/61",
+      "permanent": true
+    },
+    {
+      "source": "/compliment",
+      "destination": "https://kagamix.com/blog/62",
+      "permanent": true
+    },
+    {
+      "source": "/desk-setup-2023",
+      "destination": "https://kagamix.com/blog/63",
+      "permanent": true
+    },
+    {
+      "source": "/blue-archive-princess",
+      "destination": "https://kagamix.com/blog/64",
+      "permanent": true
+    },
+    {
+      "source": "/koiama-mini-review",
+      "destination": "https://kagamix.com/blog/65",
+      "permanent": true
+    },
+    {
+      "source": "/anonymous-m",
+      "destination": "https://kagamix.com/blog/66",
+      "permanent": true
+    },
+    {
+      "source": "/shopaholic",
+      "destination": "https://kagamix.com/blog/67",
+      "permanent": true
+    },
+    {
+      "source": "/ambitious-mission-mini-review",
+      "destination": "https://kagamix.com/blog/68",
+      "permanent": true
+    },
+    {
+      "source": "/gigamine",
+      "destination": "https://kagamix.com/blog/69",
+      "permanent": true
+    },
+    {
+      "source": "/tenshi-sz-op-first-impression",
+      "destination": "https://kagamix.com/blog/70",
+      "permanent": true
+    },
+    {
+      "source": "/h-scene-important",
+      "destination": "https://kagamix.com/blog/71",
+      "permanent": true
+    },
+    {
+      "source": "/tenshi-souzou-reboot-mini-review",
+      "destination": "https://kagamix.com/blog/72",
+      "permanent": true
+    },
+    {
+      "source": "/novel-plot",
+      "destination": "https://kagamix.com/blog/73",
+      "permanent": true
+    },
+    {
+      "source": "/h-scene-problem",
+      "destination": "https://kagamix.com/blog/74",
+      "permanent": true
+    },
+    {
+      "source": "/review-suzume-no-tojimari",
+      "destination": "https://kagamix.com/blog/75",
+      "permanent": true
+    },
+    {
+      "source": "/onchi",
+      "destination": "https://kagamix.com/blog/76",
+      "permanent": true
+    },
+    {
+      "source": "/review-tenshi-souzou-reboot",
+      "destination": "https://kagamix.com/blog/77",
+      "permanent": true
+    },
+    {
+      "source": "/favorite-vn-system",
+      "destination": "https://kagamix.com/blog/78",
+      "permanent": true
+    },
+    {
+      "source": "/new-laptop-lg-gram-17",
+      "destination": "https://kagamix.com/blog/79",
+      "permanent": true
+    },
+    {
+      "source": "/analog-clock",
+      "destination": "https://kagamix.com/blog/80",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-docs",
+      "destination": "https://kagamix.com/blog/81",
+      "permanent": true
+    },
+    {
+      "source": "/hsk2-first-time",
+      "destination": "https://kagamix.com/blog/82",
+      "permanent": true
+    },
+    {
+      "source": "/humor-in-novel",
+      "destination": "https://kagamix.com/blog/83",
+      "permanent": true
+    },
+    {
+      "source": "/reality-in-fiction-writing",
+      "destination": "https://kagamix.com/blog/84",
+      "permanent": true
+    },
+    {
+      "source": "/muteki-no-hito",
+      "destination": "https://kagamix.com/blog/85",
+      "permanent": true
+    },
+    {
+      "source": "/anmitsu-quote",
+      "destination": "https://kagamix.com/blog/86",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-design-v6-part1",
+      "destination": "https://kagamix.com/blog/87",
+      "permanent": true
+    },
+    {
+      "source": "/try-threads",
+      "destination": "https://kagamix.com/blog/88",
+      "permanent": true
+    },
+    {
+      "source": "/review-the-picture-of-cafe-au-lait",
+      "destination": "https://kagamix.com/blog/89",
+      "permanent": true
+    },
+    {
+      "source": "/just-do-it",
+      "destination": "https://kagamix.com/blog/90",
+      "permanent": true
+    },
+    {
+      "source": "/try-bad-game",
+      "destination": "https://kagamix.com/blog/91",
+      "permanent": true
+    },
+    {
+      "source": "/questionable-cg",
+      "destination": "https://kagamix.com/blog/92",
+      "permanent": true
+    },
+    {
+      "source": "/incorrect-original-text",
+      "destination": "https://kagamix.com/blog/93",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-chan-comic-01",
+      "destination": "https://kagamix.com/blog/94",
+      "permanent": true
+    },
+    {
+      "source": "/hapymaher-cg",
+      "destination": "https://kagamix.com/blog/95",
+      "permanent": true
+    },
+    {
+      "source": "/review-koibana-renai-trial",
+      "destination": "https://kagamix.com/blog/96",
+      "permanent": true
+    },
+    {
+      "source": "/phishing-email",
+      "destination": "https://kagamix.com/blog/97",
+      "permanent": true
+    },
+    {
+      "source": "/kinkyuu-in-nihongo",
+      "destination": "https://kagamix.com/blog/98",
+      "permanent": true
+    },
+    {
+      "source": "/orefukachi-review",
+      "destination": "https://kagamix.com/blog/99",
+      "permanent": true
+    },
+    {
+      "source": "/happy-live-show-up-encore-review",
+      "destination": "https://kagamix.com/blog/100",
+      "permanent": true
+    },
+    {
+      "source": "/kanojo-step-heroines-selection",
+      "destination": "https://kagamix.com/blog/101",
+      "permanent": true
+    },
+    {
+      "source": "/facebook-group-lesson",
+      "destination": "https://kagamix.com/blog/102",
+      "permanent": true
+    },
+    {
+      "source": "/favorite-eroge-seiyuu",
+      "destination": "https://kagamix.com/blog/103",
+      "permanent": true
+    },
+    {
+      "source": "/koi-shin-ai-kanojo",
+      "destination": "https://kagamix.com/blog/104",
+      "permanent": true
+    },
+    {
+      "source": "/seishun",
+      "destination": "https://kagamix.com/blog/105",
+      "permanent": true
+    },
+    {
+      "source": "/amachoco3",
+      "destination": "https://kagamix.com/blog/106",
+      "permanent": true
+    },
+    {
+      "source": "/review-ginka",
+      "destination": "https://kagamix.com/blog/107",
+      "permanent": true
+    },
+    {
+      "source": "/yuurei-moji",
+      "destination": "https://kagamix.com/blog/108",
+      "permanent": true
+    },
+    {
+      "source": "/chekhovs-gun",
+      "destination": "https://kagamix.com/blog/109",
+      "permanent": true
+    },
+    {
+      "source": "/localization-in-lupercalia",
+      "destination": "https://kagamix.com/blog/110",
+      "permanent": true
+    },
+    {
+      "source": "/nitori-central-westgate",
+      "destination": "https://kagamix.com/blog/111",
+      "permanent": true
+    },
+    {
+      "source": "/imouto-to-kanojo-taikenban",
+      "destination": "https://kagamix.com/blog/112",
+      "permanent": true
+    },
+    {
+      "source": "/preview-lovepical-poppy",
+      "destination": "https://kagamix.com/blog/113",
+      "permanent": true
+    },
+    {
+      "source": "/preview-select-oblige",
+      "destination": "https://kagamix.com/blog/114",
+      "permanent": true
+    },
+    {
+      "source": "/declare-change-in-2024",
+      "destination": "https://kagamix.com/blog/115",
+      "permanent": true
+    },
+    {
+      "source": "/recap-2023-vn",
+      "destination": "https://kagamix.com/blog/116",
+      "permanent": true
+    },
+    {
+      "source": "/kokoro-wo-yusaburu",
+      "destination": "https://kagamix.com/blog/117",
+      "permanent": true
+    },
+    {
+      "source": "/review-hajiron-taikenban",
+      "destination": "https://kagamix.com/blog/118",
+      "permanent": true
+    },
+    {
+      "source": "/ktc-digital-platinum",
+      "destination": "https://kagamix.com/blog/119",
+      "permanent": true
+    },
+    {
+      "source": "/review-unravel-trigger-trial",
+      "destination": "https://kagamix.com/blog/120",
+      "permanent": true
+    },
+    {
+      "source": "/max-me-wallet",
+      "destination": "https://kagamix.com/blog/121",
+      "permanent": true
+    },
+    {
+      "source": "/trinoline-shirone-route",
+      "destination": "https://kagamix.com/blog/122",
+      "permanent": true
+    },
+    {
+      "source": "/powerpoint-is-obsolete",
+      "destination": "https://kagamix.com/blog/123",
+      "permanent": true
+    },
+    {
+      "source": "/vtuber-reason",
+      "destination": "https://kagamix.com/blog/124",
+      "permanent": true
+    },
+    {
+      "source": "/sora-ai",
+      "destination": "https://kagamix.com/blog/125",
+      "permanent": true
+    },
+    {
+      "source": "/review-kakehana",
+      "destination": "https://kagamix.com/blog/126",
+      "permanent": true
+    },
+    {
+      "source": "/boredom-in-vn",
+      "destination": "https://kagamix.com/blog/127",
+      "permanent": true
+    },
+    {
+      "source": "/review-tsumi-koi-x-2-3",
+      "destination": "https://kagamix.com/blog/128",
+      "permanent": true
+    },
+    {
+      "source": "/yasaka-menoa",
+      "destination": "https://kagamix.com/blog/129",
+      "permanent": true
+    },
+    {
+      "source": "/maiyamok",
+      "destination": "https://kagamix.com/blog/130",
+      "permanent": true
+    },
+    {
+      "source": "/review-secret-love-kari-trial-ver",
+      "destination": "https://kagamix.com/blog/131",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-nihongo-request",
+      "destination": "https://kagamix.com/blog/132",
+      "permanent": true
+    },
+    {
+      "source": "/review-everlasting-flowers",
+      "destination": "https://kagamix.com/blog/133",
+      "permanent": true
+    },
+    {
+      "source": "/new-pc-2024",
+      "destination": "https://kagamix.com/blog/134",
+      "permanent": true
+    },
+    {
+      "source": "/goodbye-subway",
+      "destination": "https://kagamix.com/blog/135",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-nihongo-page",
+      "destination": "https://kagamix.com/blog/136",
+      "permanent": true
+    },
+    {
+      "source": "/review-putrica-1st-cut",
+      "destination": "https://kagamix.com/blog/137",
+      "permanent": true
+    },
+    {
+      "source": "/review-boukyaku-no-edicius-taikenban",
+      "destination": "https://kagamix.com/blog/138",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-nihongo-graphics",
+      "destination": "https://kagamix.com/blog/139",
+      "permanent": true
+    },
+    {
+      "source": "/favorite-character-2024",
+      "destination": "https://kagamix.com/blog/140",
+      "permanent": true
+    },
+    {
+      "source": "/future-of-kagami",
+      "destination": "https://kagamix.com/blog/141",
+      "permanent": true
+    },
+    {
+      "source": "/problem-in-english-vn",
+      "destination": "https://kagamix.com/blog/142",
+      "permanent": true
+    },
+    {
+      "source": "/if-it-works-it-works",
+      "destination": "https://kagamix.com/blog/143",
+      "permanent": true
+    },
+    {
+      "source": "/cheap-vs-expensive-ssd",
+      "destination": "https://kagamix.com/blog/144",
+      "permanent": true
+    },
+    {
+      "source": "/league-of-legends-season-15",
+      "destination": "https://kagamix.com/blog/145",
+      "permanent": true
+    },
+    {
+      "source": "/fuuki-da-capo-retune",
+      "destination": "https://kagamix.com/blog/146",
+      "permanent": true
+    },
+    {
+      "source": "/traffic-jam-tu",
+      "destination": "https://kagamix.com/blog/147",
+      "permanent": true
+    },
+    {
+      "source": "/credit-card-interest",
+      "destination": "https://kagamix.com/blog/148",
+      "permanent": true
+    },
+    {
+      "source": "/sonokemo",
+      "destination": "https://kagamix.com/blog/149",
+      "permanent": true
+    },
+    {
+      "source": "/reach-decrease",
+      "destination": "https://kagamix.com/blog/150",
+      "permanent": true
+    },
+    {
+      "source": "/happy-weekend-preview",
+      "destination": "https://kagamix.com/blog/151",
+      "permanent": true
+    },
+    {
+      "source": "/29-february",
+      "destination": "https://kagamix.com/blog/152",
+      "permanent": true
+    },
+    {
+      "source": "/review-koihaji",
+      "destination": "https://kagamix.com/blog/153",
+      "permanent": true
+    },
+    {
+      "source": "/update-portfolio-website",
+      "destination": "https://kagamix.com/blog/154",
+      "permanent": true
+    },
+    {
+      "source": "/freelance-job",
+      "destination": "https://kagamix.com/blog/155",
+      "permanent": true
+    },
+    {
+      "source": "/mk-restaurant",
+      "destination": "https://kagamix.com/blog/156",
+      "permanent": true
+    },
+    {
+      "source": "/earthquake-in-bangkok",
+      "destination": "https://kagamix.com/blog/157",
+      "permanent": true
+    },
+    {
+      "source": "/summer-pockets-anime-ep01",
+      "destination": "https://kagamix.com/blog/158",
+      "permanent": true
+    },
+    {
+      "source": "/bakappuru-supplement-delay",
+      "destination": "https://kagamix.com/blog/159",
+      "permanent": true
+    },
+    {
+      "source": "/a-day-of-troubles",
+      "destination": "https://kagamix.com/blog/160",
+      "permanent": true
+    },
+    {
+      "source": "/osaka-hotel-expensive",
+      "destination": "https://kagamix.com/blog/161",
+      "permanent": true
+    },
+    {
+      "source": "/review-secret-love-kari-fandisc",
+      "destination": "https://kagamix.com/blog/162",
+      "permanent": true
+    },
+    {
+      "source": "/blog-version-2",
+      "destination": "https://kagamix.com/blog/163",
+      "permanent": true
+    },
+    {
+      "source": "/bridge-holiday",
+      "destination": "https://kagamix.com/blog/164",
+      "permanent": true
+    },
+    {
+      "source": "/travel-pass-is-expensive",
+      "destination": "https://kagamix.com/blog/165",
+      "permanent": true
+    },
+    {
+      "source": "/kururu-is-best-girl",
+      "destination": "https://kagamix.com/blog/166",
+      "permanent": true
+    },
+    {
+      "source": "/preview-happy-weekend",
+      "destination": "https://kagamix.com/blog/167",
+      "permanent": true
+    },
+    {
+      "source": "/thing-i-hate-in-japan",
+      "destination": "https://kagamix.com/blog/168",
+      "permanent": true
+    },
+    {
+      "source": "/thing-i-hate-in-japan-part2",
+      "destination": "https://kagamix.com/blog/169",
+      "permanent": true
+    },
+    {
+      "source": "/dc-retune-premium",
+      "destination": "https://kagamix.com/blog/170",
+      "permanent": true
+    },
+    {
+      "source": "/japan-culture-shock",
+      "destination": "https://kagamix.com/blog/171",
+      "permanent": true
+    },
+    {
+      "source": "/the-little-prince",
+      "destination": "https://kagamix.com/blog/172",
+      "permanent": true
+    },
+    {
+      "source": "/L3J-first-impression",
+      "destination": "https://kagamix.com/blog/173",
+      "permanent": true
+    },
+    {
+      "source": "/onmi",
+      "destination": "https://kagamix.com/blog/174",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-nihongo-content",
+      "destination": "https://kagamix.com/blog/175",
+      "permanent": true
+    },
+    {
+      "source": "/thai-tea-without-sunset-yellow",
+      "destination": "https://kagamix.com/blog/176",
+      "permanent": true
+    },
+    {
+      "source": "/content-creation-in-2025",
+      "destination": "https://kagamix.com/blog/177",
+      "permanent": true
+    },
+    {
+      "source": "/preview-haison-shoujo-ni",
+      "destination": "https://kagamix.com/blog/178",
+      "permanent": true
+    },
+    {
+      "source": "/bug-system-10th-anniversary",
+      "destination": "https://kagamix.com/blog/179",
+      "permanent": true
+    },
+    {
+      "source": "/preview-manosaba",
+      "destination": "https://kagamix.com/blog/180",
+      "permanent": true
+    },
+    {
+      "source": "/freelance-job-is-terrible",
+      "destination": "https://kagamix.com/blog/181",
+      "permanent": true
+    },
+    {
+      "source": "/nakamutsumajii",
+      "destination": "https://kagamix.com/blog/182",
+      "permanent": true
+    },
+    {
+      "source": "/the-rise-of-ai-slop",
+      "destination": "https://kagamix.com/blog/183",
+      "permanent": true
+    },
+    {
+      "source": "/JLPT-is-changing",
+      "destination": "https://kagamix.com/blog/184",
+      "permanent": true
+    },
+    {
+      "source": "/public-transportation-suck",
+      "destination": "https://kagamix.com/blog/185",
+      "permanent": true
+    },
+    {
+      "source": "/WTF-UI",
+      "destination": "https://kagamix.com/blog/186",
+      "permanent": true
+    },
+    {
+      "source": "/silly-mistake",
+      "destination": "https://kagamix.com/blog/187",
+      "permanent": true
+    },
+    {
+      "source": "/manosaba-is-awesome",
+      "destination": "https://kagamix.com/blog/188",
+      "permanent": true
+    },
+    {
+      "source": "/symbol-in-summer-pockets",
+      "destination": "https://kagamix.com/blog/189",
+      "permanent": true
+    },
+    {
+      "source": "/review-suzaku-shijuusou",
+      "destination": "https://kagamix.com/blog/190",
+      "permanent": true
+    },
+    {
+      "source": "/anemoi-first-impression",
+      "destination": "https://kagamix.com/blog/191",
+      "permanent": true
+    },
+    {
+      "source": "/meme-jlpt-result",
+      "destination": "https://kagamix.com/blog/192",
+      "permanent": true
+    },
+    {
+      "source": "/first-jobber-use-canva",
+      "destination": "https://kagamix.com/blog/193",
+      "permanent": true
+    },
+    {
+      "source": "/facebook-monetization-program",
+      "destination": "https://kagamix.com/blog/194",
+      "permanent": true
+    },
+    {
+      "source": "/preview-lllj",
+      "destination": "https://kagamix.com/blog/195",
+      "permanent": true
+    },
+    {
+      "source": "/favorite-character-lllj",
+      "destination": "https://kagamix.com/blog/196",
+      "permanent": true
+    },
+    {
+      "source": "/iphone17-opinion",
+      "destination": "https://kagamix.com/blog/197",
+      "permanent": true
+    },
+    {
+      "source": "/iphone17-opinion-part2",
+      "destination": "https://kagamix.com/blog/198",
+      "permanent": true
+    },
+    {
+      "source": "/high-quality-pen",
+      "destination": "https://kagamix.com/blog/199",
+      "permanent": true
+    },
+    {
+      "source": "/preview-crack-trick",
+      "destination": "https://kagamix.com/blog/200",
+      "permanent": true
+    },
+    {
+      "source": "/quiet-barber-shop",
+      "destination": "https://kagamix.com/blog/201",
+      "permanent": true
+    },
+    {
+      "source": "/tsukimi-best-girl",
+      "destination": "https://kagamix.com/blog/202",
+      "permanent": true
+    },
+    {
+      "source": "/lllj-new-patch",
+      "destination": "https://kagamix.com/blog/203",
+      "permanent": true
+    },
+    {
+      "source": "/review-9nine-rulers-crown",
+      "destination": "https://kagamix.com/blog/204",
+      "permanent": true
+    },
+    {
+      "source": "/hikokumin",
+      "destination": "https://kagamix.com/blog/205",
+      "permanent": true
+    },
+    {
+      "source": "/new-phone-in-2025",
+      "destination": "https://kagamix.com/blog/206",
+      "permanent": true
+    },
+    {
+      "source": "/thailand-mobile-expo-2025",
+      "destination": "https://kagamix.com/blog/207",
+      "permanent": true
+    },
+    {
+      "source": "/creator-need-strong-mind",
+      "destination": "https://kagamix.com/blog/208",
+      "permanent": true
+    },
+    {
+      "source": "/we-are-condemned-to-be-free",
+      "destination": "https://kagamix.com/blog/209",
+      "permanent": true
+    },
+    {
+      "source": "/review-yarinaoshi-crank-in",
+      "destination": "https://kagamix.com/blog/210",
+      "permanent": true
+    },
+    {
+      "source": "/reform-kagami-pages",
+      "destination": "https://kagamix.com/blog/211",
+      "permanent": true
+    },
+    {
+      "source": "/magiceyes",
+      "destination": "https://kagamix.com/blog/212",
+      "permanent": true
+    },
+    {
+      "source": "/LLLJ-anju-best-girl",
+      "destination": "https://kagamix.com/blog/213",
+      "permanent": true
+    },
+    {
+      "source": "/strawberry-nauts-houmi",
+      "destination": "https://kagamix.com/blog/214",
+      "permanent": true
+    },
+    {
+      "source": "/donation-rant",
+      "destination": "https://kagamix.com/blog/215",
+      "permanent": true
+    },
+    {
+      "source": "/software-dev-title",
+      "destination": "https://kagamix.com/blog/216",
+      "permanent": true
+    },
+    {
+      "source": "/hitobashira",
+      "destination": "https://kagamix.com/blog/217",
+      "permanent": true
+    },
+    {
+      "source": "/nihongodiscussion-group-problem",
+      "destination": "https://kagamix.com/blog/218",
+      "permanent": true
+    },
+    {
+      "source": "/esports-is-sport",
+      "destination": "https://kagamix.com/blog/219",
+      "permanent": true
+    },
+    {
+      "source": "/summer-pockets-vs-anemoi",
+      "destination": "https://kagamix.com/blog/220",
+      "permanent": true
+    },
+    {
+      "source": "/anemoi-koyomi-best-girl",
+      "destination": "https://kagamix.com/blog/221",
+      "permanent": true
+    },
+    {
+      "source": "/review-12-no-tsuki-no-eve",
+      "destination": "https://kagamix.com/blog/222",
+      "permanent": true
+    },
+    {
+      "source": "/as9nine",
+      "destination": "https://kagamix.com/blog/223",
+      "permanent": true
+    },
+    {
+      "source": "/best-visual-novel-in-2025",
+      "destination": "https://kagamix.com/blog/224",
+      "permanent": true
+    },
+    {
+      "source": "/review-katanegai",
+      "destination": "https://kagamix.com/blog/225",
+      "permanent": true
+    },
+    {
+      "source": "/content-trend-2026",
+      "destination": "https://kagamix.com/blog/226",
+      "permanent": true
+    },
+    {
+      "source": "/wannabe-creators",
+      "destination": "https://kagamix.com/blog/227",
+      "permanent": true
+    },
+    {
+      "source": "/kamimaho-china",
+      "destination": "https://kagamix.com/blog/228",
+      "permanent": true
+    },
+    {
+      "source": "/morphean-paradox",
+      "destination": "https://kagamix.com/blog/229",
+      "permanent": true
+    },
+    {
+      "source": "/whirlpool-disbanded",
+      "destination": "https://kagamix.com/blog/230",
+      "permanent": true
+    },
+    {
+      "source": "/review-chou-kaguya-hime",
+      "destination": "https://kagamix.com/blog/231",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-creator-report-202601",
+      "destination": "https://kagamix.com/blog/232",
+      "permanent": true
+    },
+    {
+      "source": "/facebook-graph-api",
+      "destination": "https://kagamix.com/blog/233",
+      "permanent": true
+    },
+    {
+      "source": "/lilith-ep2",
+      "destination": "https://kagamix.com/blog/234",
+      "permanent": true
+    },
+    {
+      "source": "/preview-happy-route-o-owarasete",
+      "destination": "https://kagamix.com/blog/235",
+      "permanent": true
+    },
+    {
+      "source": "/AI-is-not-threat",
+      "destination": "https://kagamix.com/blog/236",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-creator-report-202602",
+      "destination": "https://kagamix.com/blog/237",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-be-community-admin",
+      "destination": "https://kagamix.com/blog/238",
+      "permanent": true
+    },
+    {
+      "source": "/preview-magalumina",
+      "destination": "https://kagamix.com/blog/239",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-choose-university",
+      "destination": "https://kagamix.com/blog/240",
+      "permanent": true
+    },
+    {
+      "source": "/RAM-is-expensive",
+      "destination": "https://kagamix.com/blog/241",
+      "permanent": true
+    },
+    {
+      "source": "/new-phone-2026",
+      "destination": "https://kagamix.com/blog/242",
+      "permanent": true
+    },
+    {
+      "source": "/review-huawei-mate-x7",
+      "destination": "https://kagamix.com/blog/243",
+      "permanent": true
+    },
+    {
+      "source": "/why-i-love-huawei",
+      "destination": "https://kagamix.com/blog/244",
+      "permanent": true
+    },
+    {
+      "source": "/problem-with-foldable-phone",
+      "destination": "https://kagamix.com/blog/245",
+      "permanent": true
+    },
+    {
+      "source": "/preview-dimension-totsu-lovers",
+      "destination": "https://kagamix.com/blog/246",
+      "permanent": true
+    },
+    {
+      "source": "/HDD-is-expensive",
+      "destination": "https://kagamix.com/blog/247",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-creator-report-202603",
+      "destination": "https://kagamix.com/blog/248",
+      "permanent": true
+    },
+    {
+      "source": "/large-melon",
+      "destination": "https://kagamix.com/blog/249",
+      "permanent": true
+    },
+    {
+      "source": "/relirium-kaguya",
+      "destination": "https://kagamix.com/blog/250",
+      "permanent": true
+    },
+    {
+      "source": "/exteen-go-away",
+      "destination": "https://kagamix.com/blog/251",
+      "permanent": true
+    },
+    {
+      "source": "/haruhi-haruhi",
+      "destination": "https://kagamix.com/blog/252",
+      "permanent": true
+    },
+    {
+      "source": "/preview-triple-pairing",
+      "destination": "https://kagamix.com/blog/253",
+      "permanent": true
+    },
+    {
+      "source": "/thought-anemoi-koyomi",
+      "destination": "https://kagamix.com/blog/254",
+      "permanent": true
+    },
+    {
+      "source": "/thought-anemoi-aino",
+      "destination": "https://kagamix.com/blog/255",
+      "permanent": true
+    },
+    {
+      "source": "/anemoi-awayuki-route-outstanding",
+      "destination": "https://kagamix.com/blog/256",
+      "permanent": true
+    },
+    {
+      "source": "/thought-anemoi-awayuki",
+      "destination": "https://kagamix.com/blog/257",
+      "permanent": true
+    },
+    {
+      "source": "/thought-anemoi-rikka",
+      "destination": "https://kagamix.com/blog/258",
+      "permanent": true
+    },
+    {
+      "source": "/thought-anemoi-spica",
+      "destination": "https://kagamix.com/blog/259",
+      "permanent": true
+    },
+    {
+      "source": "/tobenai-chou",
+      "destination": "https://kagamix.com/blog/260",
+      "permanent": true
+    },
+    {
+      "source": "/review-anemoi",
+      "destination": "https://kagamix.com/blog/261",
+      "permanent": true
+    },
+    {
+      "source": "/anemoi-tier-list",
+      "destination": "https://kagamix.com/blog/262",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-creator-report-202604",
+      "destination": "https://kagamix.com/blog/263",
+      "permanent": true
+    },
+    {
+      "source": "/totsuraba-best-game",
+      "destination": "https://kagamix.com/blog/264",
+      "permanent": true
+    },
+    {
+      "source": "/review-tobenai-chou-no-valentine",
+      "destination": "https://kagamix.com/blog/265",
+      "permanent": true
+    },
+    {
+      "source": "/anemoi-route-order",
+      "destination": "https://kagamix.com/blog/266",
+      "permanent": true
+    },
+    {
+      "source": "/totsulover-tophit",
+      "destination": "https://kagamix.com/blog/267",
+      "permanent": true
+    },
+    {
+      "source": "/mahalanobis-distance",
+      "destination": "https://kagamix.com/blog/268",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-nextgen-update",
+      "destination": "https://kagamix.com/blog/269",
+      "permanent": true
+    },
+    {
+      "source": "/totsulover-is-good",
+      "destination": "https://kagamix.com/blog/270",
+      "permanent": true
+    },
+    {
+      "source": "/tiny-shadows-interwoven-hearts",
+      "destination": "https://kagamix.com/blog/271",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-creator-report-202605",
+      "destination": "https://kagamix.com/blog/272",
+      "permanent": true
+    },
+    {
+      "source": "/mikage-lizu",
+      "destination": "https://kagamix.com/blog/273",
+      "permanent": true
+    },
+    {
+      "source": "/chaos-start-here",
+      "destination": "https://kagamix.com/blog/274",
+      "permanent": true
+    },
+    {
+      "source": "/toriko-no-sakura",
+      "destination": "https://kagamix.com/blog/275",
+      "permanent": true
+    },
+    {
+      "source": "/facebook-page-advice-2026",
+      "destination": "https://kagamix.com/blog/276",
+      "permanent": true
+    },
+    {
+      "source": "/review-putrika-2nd-cut",
+      "destination": "https://kagamix.com/blog/277",
+      "permanent": true
+    },
+    {
+      "source": "/fabel5-is-god",
+      "destination": "https://kagamix.com/blog/278",
+      "permanent": true
+    },
+    {
+      "source": "/how-fabel5-works",
+      "destination": "https://kagamix.com/blog/279",
+      "permanent": true
+    },
+    {
+      "source": "/repetitive-task-is-boring",
+      "destination": "https://kagamix.com/blog/280",
+      "permanent": true
+    },
+    {
+      "source": "/apple-raise-price-2026",
+      "destination": "https://kagamix.com/blog/281",
+      "permanent": true
+    },
+    {
+      "source": "/magalumina-might-be-best-game",
+      "destination": "https://kagamix.com/blog/282",
+      "permanent": true
+    },
+    {
+      "source": "/kagami-creator-report-202606",
+      "destination": "https://kagamix.com/blog/283",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://kagamix.com/blog",
+      "permanent": true
+    }
+  ]
+}
