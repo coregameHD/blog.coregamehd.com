@@ -1419,6 +1419,11 @@
       "source": "/:path*",
       "destination": "https://kagamix.com/blog",
       "permanent": true
+    },
+    {
+      "source": "/",
+      "destination": "https://kagamix.com/blog",
+      "permanent": true
     }
   ]
 }
